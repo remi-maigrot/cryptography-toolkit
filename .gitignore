@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Build output
+mypgp
+
+# Local test data
+ciphered
+message
+notes
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
