@@ -4,7 +4,7 @@ A command-line encryption tool in Python implementing XOR, a simplified symmetri
 
 ## About
 
-Epitech project (2023). The goal was to build `mypgp`, a small PGP-inspired program that encrypts and decrypts messages with both symmetric and asymmetric algorithms, implementing the underlying math by hand (modular arithmetic, primality testing, key generation) instead of relying on existing cryptography packages.
+Built in 2023. The goal was to build `mypgp`, a small PGP-inspired program that encrypts and decrypts messages with both symmetric and asymmetric algorithms, implementing the underlying math by hand (modular arithmetic, primality testing, key generation) instead of relying on existing cryptography packages.
 
 > This is an educational implementation. It is not meant to protect real data.
 
